@@ -1,0 +1,5 @@
+{
+  "app.port": 8080,
+  "mongo.connectionString": "mongodb://vba_user:112233aassdd@ds157223.mlab.com:57223/vba_service",
+  "mongo.dbName": "vba_service"
+}
